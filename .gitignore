@@ -10,3 +10,4 @@ discordsuite
 *.dat
 *.dll
 .mixin.out
+*.ini
