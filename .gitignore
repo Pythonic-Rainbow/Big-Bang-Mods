@@ -2,3 +2,11 @@ mods
 saves
 resourcepacks
 .curseclient
+crash-reports
+reports
+logs
+discordsuite
+*.log
+*.dat
+*.dll
+.mixin.out
