@@ -1,0 +1,11 @@
+{
+  "channels": [
+    {
+      "name": "pythonic_rainbow",
+      "subscribersOnly": false,
+      "channelId": -1,
+      "deletedMessages": "Replace",
+      "active": true
+    }
+  ]
+}
