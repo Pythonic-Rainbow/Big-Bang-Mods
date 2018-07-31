@@ -10,3 +10,6 @@ discordsuite
 *.dll
 .mixin.out
 *.ini
+*.png
+ChatTweaks/cache
+*.bin
