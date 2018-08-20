@@ -13,3 +13,5 @@ discordsuite
 *.png
 ChatTweaks/cache
 *.bin
+
+tv-cache/!read-me\.txt
