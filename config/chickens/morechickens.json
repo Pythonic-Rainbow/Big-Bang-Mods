@@ -897,5 +897,15 @@
     "Spawn Type": "NONE",
     "Parent 1": "chickens:soulsandchicken",
     "Parent 2": "chickens:goldchicken"
+  },
+  "morechickens:cupronickelchicken": {
+    "Name": "cupronickelchicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "basemetals:cupronickel_ingot",
+    "Drop Item": "basemetals:cupronickel_ingot",
+    "Spawn Type": "NONE",
+    "Parent 1": "morechickens:copperchicken",
+    "Parent 2": "morechickens:nickelchicken"
   }
 }
