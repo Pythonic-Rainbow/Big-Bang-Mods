@@ -1,17 +1,17 @@
 {
   "baseModLoader": {
-    "name": "forge-14.23.4.2760",
+    "name": "forge-14.23.4.2765",
     "type": 1,
-    "downloadUrl": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.12.2-14.23.4.2760/forge-1.12.2-14.23.4.2760.jar",
-    "filename": "forge-1.12.2-14.23.4.2760.jar",
+    "downloadUrl": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.12.2-14.23.4.2765/forge-1.12.2-14.23.4.2765.jar",
+    "filename": "forge-1.12.2-14.23.4.2765.jar",
     "installMethod": 1,
-    "latest": false,
+    "latest": true,
     "recommended": false,
     "approved": false,
-    "dateModified": "2018-09-04T04:32:00Z",
-    "mavenVersionString": "net.minecraftforge:forge:1.12.2-14.23.4.2760",
-    "versionJson": "{\r\n  \"id\": \"forge-14.23.4.2760\",\r\n  \"time\": \"2018-09-04T04:21:12+0000\",\r\n  \"releaseTime\": \"1960-01-01T00:00:00-0700\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge\",\r\n  \"minimumLauncherVersion\": 0,\r\n  \"inheritsFrom\": \"1.12.2\",\r\n  \"jar\": \"forge-14.23.4.2760\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.12.2-14.23.4.2760\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\"\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-all:5.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.jline:jline:3.5.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"net.java.dev.jna:jna:4.4.0\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:5.0.3\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"java3d:vecmath:1.5.2\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.trove4j:trove4j:3.0.3\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.apache.maven:maven-artifact:3.5.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
-    "librariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.12.2-14.23.4.2760",
+    "dateModified": "2018-09-28T19:41:00Z",
+    "mavenVersionString": "net.minecraftforge:forge:1.12.2-14.23.4.2765",
+    "versionJson": "{\r\n  \"id\": \"forge-14.23.4.2765\",\r\n  \"time\": \"2018-09-28T19:32:44+0000\",\r\n  \"releaseTime\": \"1960-01-01T00:00:00-0700\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge\",\r\n  \"minimumLauncherVersion\": 0,\r\n  \"inheritsFrom\": \"1.12.2\",\r\n  \"jar\": \"forge-14.23.4.2765\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.12.2-14.23.4.2765\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\"\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-all:5.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.jline:jline:3.5.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"net.java.dev.jna:jna:4.4.0\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:5.0.3\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"java3d:vecmath:1.5.2\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.trove4j:trove4j:3.0.3\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.apache.maven:maven-artifact:3.5.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
+    "librariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.12.2-14.23.4.2765",
     "minecraftVersion": "1.12.2",
     "additionalFilesJson": null
   },
@@ -3014,6 +3014,21 @@
       "fileSize": 338984
     },
     {
+      "folderName": "ActuallyAdditions-1.12.2-r141.jar",
+      "fingerprint": 4070615566,
+      "fileDateHash": 224091301,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4070615566
+      ],
+      "status": 1,
+      "timestamp": "2018-09-29T05:32:24.4317717Z",
+      "lastWriteTimeUtc": "2018-09-28T14:18:34.6511992Z",
+      "queryTimestamp": "2018-09-29T05:32:26.3412793Z",
+      "fileCount": 1,
+      "fileSize": 2904223
+    },
+    {
       "folderName": "Snad-1.12.1-1.7.09.16a.jar",
       "fingerprint": 189619338,
       "fileDateHash": 4019420811,
@@ -4109,6 +4124,21 @@
       "fileSize": 1433184
     },
     {
+      "folderName": "WirelessCraftingTerminal-1.12.2-3.10.82.jar",
+      "fingerprint": 706886093,
+      "fileDateHash": 4016543271,
+      "sectionID": 6,
+      "individualFingerprints": [
+        706886093
+      ],
+      "status": 1,
+      "timestamp": "2018-09-29T05:32:25.0813143Z",
+      "lastWriteTimeUtc": "2018-09-28T14:20:40.3487454Z",
+      "queryTimestamp": "2018-09-29T05:32:26.3632428Z",
+      "fileCount": 1,
+      "fileSize": 378953
+    },
+    {
       "folderName": "zettaindustries-1.3-1.12.2-158.jar",
       "fingerprint": 1477646034,
       "fileDateHash": 3987293517,
@@ -4649,6 +4679,21 @@
       "fileSize": 522502
     },
     {
+      "folderName": "appliedenergistics2-rv6-beta-1.jar",
+      "fingerprint": 3832099788,
+      "fileDateHash": 2285662894,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3832099788
+      ],
+      "status": 1,
+      "timestamp": "2018-09-29T05:32:24.519537Z",
+      "lastWriteTimeUtc": "2018-09-28T14:20:05.4643216Z",
+      "queryTimestamp": "2018-09-29T05:32:26.3742136Z",
+      "fileCount": 1,
+      "fileSize": 4056738
+    },
+    {
       "folderName": "Waystones_1.12.2-4.0.63.jar",
       "fingerprint": 1783862931,
       "fileDateHash": 752154736,
@@ -4737,21 +4782,6 @@
       "queryTimestamp": "2018-09-28T14:18:09.947312Z",
       "fileCount": 1,
       "fileSize": 1684019
-    },
-    {
-      "folderName": "WirelessCraftingTerminal-1.12.2-3.9.68.jar",
-      "fingerprint": 2944442315,
-      "fileDateHash": 1347777743,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2944442315
-      ],
-      "status": 1,
-      "timestamp": "2018-09-25T03:31:59.6362149Z",
-      "lastWriteTimeUtc": "2018-09-22T14:14:44.5389802Z",
-      "queryTimestamp": "2018-09-28T14:18:09.947312Z",
-      "fileCount": 1,
-      "fileSize": 320340
     },
     {
       "folderName": "LootBags-1.12.2-2.5.7.jar",
@@ -4992,21 +5022,6 @@
       "queryTimestamp": "2018-09-28T14:18:09.9522985Z",
       "fileCount": 1,
       "fileSize": 55183
-    },
-    {
-      "folderName": "appliedenergistics2-rv5-stable-11.jar",
-      "fingerprint": 3284264109,
-      "fileDateHash": 3353757963,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3284264109
-      ],
-      "status": 1,
-      "timestamp": "2018-09-22T14:02:45.5890713Z",
-      "lastWriteTimeUtc": "2018-09-22T14:01:34.4297177Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9522985Z",
-      "fileCount": 1,
-      "fileSize": 3570947
     },
     {
       "folderName": "generators-0.9.20.12-mc1.12.2.jar",
@@ -5609,21 +5624,6 @@
       "fileSize": 398038
     },
     {
-      "folderName": "minecolonies-1.12.2-0.9.3-RELEASE-universal.jar",
-      "fingerprint": 563161626,
-      "fileDateHash": 3122972763,
-      "sectionID": 6,
-      "individualFingerprints": [
-        563161626
-      ],
-      "status": 1,
-      "timestamp": "2018-09-25T04:57:29.5354772Z",
-      "lastWriteTimeUtc": "2018-09-25T04:08:03.270292Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9662611Z",
-      "fileCount": 1,
-      "fileSize": 31453415
-    },
-    {
       "folderName": "Draconic-Evolution-1.12.2-2.3.15.312-universal.jar",
       "fingerprint": 2201629461,
       "fileDateHash": 1356213869,
@@ -5909,21 +5909,6 @@
       "fileSize": 7296016
     },
     {
-      "folderName": "VampirismIntegrations-1.12.2-1.0.0.jar",
-      "fingerprint": 3891930671,
-      "fileDateHash": 350141163,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3891930671
-      ],
-      "status": 1,
-      "timestamp": "2018-09-22T14:02:49.34677Z",
-      "lastWriteTimeUtc": "2018-09-22T14:00:19.3270653Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9722446Z",
-      "fileCount": 1,
-      "fileSize": 66577
-    },
-    {
       "folderName": "Morph-o-Tool-1.2-16.jar",
       "fingerprint": 4037997194,
       "fileDateHash": 1736835678,
@@ -5939,19 +5924,19 @@
       "fileSize": 26285
     },
     {
-      "folderName": "StorageDrawers-1.12.2-5.3.7.jar",
-      "fingerprint": 4138996566,
-      "fileDateHash": 3799856443,
+      "folderName": "VampirismIntegrations-1.12.2-1.0.0.jar",
+      "fingerprint": 3891930671,
+      "fileDateHash": 350141163,
       "sectionID": 6,
       "individualFingerprints": [
-        4138996566
+        3891930671
       ],
       "status": 1,
-      "timestamp": "2018-09-22T14:02:48.7972388Z",
-      "lastWriteTimeUtc": "2018-09-22T14:00:22.1235864Z",
+      "timestamp": "2018-09-22T14:02:49.34677Z",
+      "lastWriteTimeUtc": "2018-09-22T14:00:19.3270653Z",
       "queryTimestamp": "2018-09-28T14:18:09.9722446Z",
       "fileCount": 1,
-      "fileSize": 596191
+      "fileSize": 66577
     },
     {
       "folderName": "randompatches-1.12.2-1.5.0.4.jar",
@@ -5967,6 +5952,21 @@
       "queryTimestamp": "2018-09-28T14:18:09.9722446Z",
       "fileCount": 1,
       "fileSize": 69920
+    },
+    {
+      "folderName": "StorageDrawers-1.12.2-5.3.7.jar",
+      "fingerprint": 4138996566,
+      "fileDateHash": 3799856443,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4138996566
+      ],
+      "status": 1,
+      "timestamp": "2018-09-22T14:02:48.7972388Z",
+      "lastWriteTimeUtc": "2018-09-22T14:00:22.1235864Z",
+      "queryTimestamp": "2018-09-28T14:18:09.9722446Z",
+      "fileCount": 1,
+      "fileSize": 596191
     },
     {
       "folderName": "LibEx-1.12.2-1.0.8.jar",
@@ -6149,6 +6149,21 @@
       "fileSize": 94837
     },
     {
+      "folderName": "minecolonies-1.12.2-0.9.4-RELEASE-universal.jar",
+      "fingerprint": 4104287373,
+      "fileDateHash": 2039629507,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4104287373
+      ],
+      "status": 1,
+      "timestamp": "2018-09-29T05:32:24.6701463Z",
+      "lastWriteTimeUtc": "2018-09-28T14:20:23.6211436Z",
+      "queryTimestamp": "2018-09-29T05:32:26.4021358Z",
+      "fileCount": 1,
+      "fileSize": 31453518
+    },
+    {
       "folderName": "Schematica-1.12.2-1.8.0.169-universal.jar",
       "fingerprint": 3242696918,
       "fileDateHash": 3662565179,
@@ -6162,6 +6177,21 @@
       "queryTimestamp": "2018-09-28T14:18:09.9762341Z",
       "fileCount": 1,
       "fileSize": 336150
+    },
+    {
+      "folderName": "foamfix-0.10.2-1.12.2.jar",
+      "fingerprint": 1991241650,
+      "fileDateHash": 3327139135,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1991241650
+      ],
+      "status": 1,
+      "timestamp": "2018-09-29T05:32:24.6561841Z",
+      "lastWriteTimeUtc": "2018-09-28T14:20:14.1451301Z",
+      "queryTimestamp": "2018-09-29T05:32:26.4031328Z",
+      "fileCount": 1,
+      "fileSize": 214428
     },
     {
       "folderName": "CraftTweaker2-1.12-4.1.9.jar",
@@ -6327,21 +6357,6 @@
       "queryTimestamp": "2018-09-28T14:18:09.9792263Z",
       "fileCount": 1,
       "fileSize": 823711
-    },
-    {
-      "folderName": "ActuallyAdditions-1.12.2-r140.jar",
-      "fingerprint": 3996943025,
-      "fileDateHash": 674493090,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3996943025
-      ],
-      "status": 1,
-      "timestamp": "2018-09-22T14:02:45.4055899Z",
-      "lastWriteTimeUtc": "2018-09-22T14:01:16.0479198Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9802233Z",
-      "fileCount": 1,
-      "fileSize": 2904524
     },
     {
       "folderName": "BackTools-1.12.2-7.0.0.jar",
@@ -6629,21 +6644,6 @@
       "fileSize": 6109100
     },
     {
-      "folderName": "foamfix-0.10.1-1.12.2.jar",
-      "fingerprint": 4154270084,
-      "fileDateHash": 1547027045,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4154270084
-      ],
-      "status": 1,
-      "timestamp": "2018-09-22T14:02:46.6223323Z",
-      "lastWriteTimeUtc": "2018-09-22T13:58:31.3836104Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9862072Z",
-      "fileCount": 1,
-      "fileSize": 232119
-    },
-    {
       "folderName": "woot-1.12.2-1.4.4.jar",
       "fingerprint": 817084894,
       "fileDateHash": 1703804684,
@@ -6779,21 +6779,6 @@
       "fileSize": 2913714
     },
     {
-      "folderName": "Tinkers' Addons-1.12.1-1.0.7.jar",
-      "fingerprint": 2352639189,
-      "fileDateHash": 4028037994,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2352639189
-      ],
-      "status": 1,
-      "timestamp": "2018-09-22T14:02:49.2041513Z",
-      "lastWriteTimeUtc": "2018-09-22T14:01:43.2993491Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9882023Z",
-      "fileCount": 1,
-      "fileSize": 44044
-    },
-    {
       "folderName": "tinyprogressions-1.12.2-3.3.31-Release.jar",
       "fingerprint": 1738796802,
       "fileDateHash": 2322690557,
@@ -6807,6 +6792,21 @@
       "queryTimestamp": "2018-09-28T14:18:09.9891993Z",
       "fileCount": 1,
       "fileSize": 1129670
+    },
+    {
+      "folderName": "Tinkers' Addons-1.12.1-1.0.7.jar",
+      "fingerprint": 2352639189,
+      "fileDateHash": 4028037994,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2352639189
+      ],
+      "status": 1,
+      "timestamp": "2018-09-22T14:02:49.2041513Z",
+      "lastWriteTimeUtc": "2018-09-22T14:01:43.2993491Z",
+      "queryTimestamp": "2018-09-28T14:18:09.9882023Z",
+      "fileCount": 1,
+      "fileSize": 44044
     },
     {
       "folderName": "elulib-0.1.12.jar",
@@ -6839,21 +6839,6 @@
       "fileSize": 799809
     },
     {
-      "folderName": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
-      "fingerprint": 1964344708,
-      "fileDateHash": 1452376512,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1964344708
-      ],
-      "status": 1,
-      "timestamp": "2018-09-22T14:02:49.068515Z",
-      "lastWriteTimeUtc": "2018-09-22T14:01:45.9726525Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9901967Z",
-      "fileCount": 1,
-      "fileSize": 17224
-    },
-    {
       "folderName": "plustic-6.5.2.0.jar",
       "fingerprint": 2519740405,
       "fileDateHash": 1731942220,
@@ -6867,6 +6852,21 @@
       "queryTimestamp": "2018-09-28T14:18:09.9901967Z",
       "fileCount": 1,
       "fileSize": 359796
+    },
+    {
+      "folderName": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
+      "fingerprint": 1964344708,
+      "fileDateHash": 1452376512,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1964344708
+      ],
+      "status": 1,
+      "timestamp": "2018-09-22T14:02:49.068515Z",
+      "lastWriteTimeUtc": "2018-09-22T14:01:45.9726525Z",
+      "queryTimestamp": "2018-09-28T14:18:09.9901967Z",
+      "fileCount": 1,
+      "fileSize": 17224
     },
     {
       "folderName": "topaddons-1.12.2-1.9.0.jar",
@@ -6899,21 +6899,6 @@
       "fileSize": 314060
     },
     {
-      "folderName": "jei_1.12.2-4.11.0.212.jar",
-      "fingerprint": 1144725565,
-      "fileDateHash": 980128678,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1144725565
-      ],
-      "status": 1,
-      "timestamp": "2018-09-22T14:02:47.0910565Z",
-      "lastWriteTimeUtc": "2018-09-22T13:59:29.1404478Z",
-      "queryTimestamp": "2018-09-28T14:18:09.9911937Z",
-      "fileCount": 1,
-      "fileSize": 577235
-    },
-    {
       "folderName": "Clumps-3.1.1.jar",
       "fingerprint": 4227880199,
       "fileDateHash": 194058783,
@@ -6927,6 +6912,21 @@
       "queryTimestamp": "2018-09-28T14:18:09.9911937Z",
       "fileCount": 1,
       "fileSize": 13723
+    },
+    {
+      "folderName": "jei_1.12.2-4.11.0.212.jar",
+      "fingerprint": 1144725565,
+      "fileDateHash": 980128678,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1144725565
+      ],
+      "status": 1,
+      "timestamp": "2018-09-22T14:02:47.0910565Z",
+      "lastWriteTimeUtc": "2018-09-22T13:59:29.1404478Z",
+      "queryTimestamp": "2018-09-28T14:18:09.9911937Z",
+      "fileCount": 1,
+      "fileSize": 577235
     },
     {
       "folderName": "ThaumicEquivalence-1.12.2-1.0.5.jar",
@@ -7095,7 +7095,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2018-09-28T14:18:11.9269163Z",
+  "lastPreviousMatchUpdate": "2018-09-29T05:32:29.7169757Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -8181,14 +8181,14 @@
       "addonID": 245453,
       "gameInstanceID": "958e463f-9cb0-438b-9a30-e309d2b07df9",
       "installedFile": {
-        "id": 2605746,
-        "fileName": "environmentaltech-1.12.2-2.0.15.1.jar",
-        "fileNameOnDisk": "environmentaltech-1.12.2-2.0.15.1.jar",
-        "fileDate": "2018-08-19T18:52:50.83",
-        "fileLength": 992232,
+        "id": 2621777,
+        "fileName": "environmentaltech-1.12.2-2.0.16.1.jar",
+        "fileNameOnDisk": "environmentaltech-1.12.2-2.0.16.1.jar",
+        "fileDate": "2018-09-28T10:33:11.373",
+        "fileLength": 992874,
         "releaseType": 2,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2605/746/environmentaltech-1.12.2-2.0.15.1.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2621/777/environmentaltech-1.12.2-2.0.16.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -8205,15 +8205,15 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 667227612
+            "fimgerprint": 1609089325
           },
           {
             "folderName": "com",
-            "fimgerprint": 1390999592
+            "fimgerprint": 1104399892
           },
           {
             "folderName": "assets",
-            "fimgerprint": 1227411663
+            "fimgerprint": 4016774247
           },
           {
             "folderName": "logo_mcmod.png",
@@ -8221,23 +8221,23 @@
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 2295584253
+            "fimgerprint": 1168001854
           },
           {
             "folderName": "pack.mcmeta",
             "fimgerprint": 3473727868
           }
         ],
-        "packageFingerprint": 3337987710,
+        "packageFingerprint": 1923421380,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-09-22T13:56:54.0259924Z",
-      "dateUpdated": "2018-09-22T13:56:54.0270182Z",
-      "dateLastUpdateAttempted": "2018-09-22T13:56:54.0270182Z",
-      "status": 5,
+      "dateUpdated": "2018-09-29T05:32:44.0745802Z",
+      "dateLastUpdateAttempted": "2018-09-29T05:32:44.0745802Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16602,14 +16602,14 @@
       "addonID": 59751,
       "gameInstanceID": "958e463f-9cb0-438b-9a30-e309d2b07df9",
       "installedFile": {
-        "id": 2583367,
-        "fileName": "forestry_1.12.2-5.8.1.322.jar",
-        "fileNameOnDisk": "forestry_1.12.2-5.8.1.322.jar",
-        "fileDate": "2018-07-15T20:49:06.12",
-        "fileLength": 5341129,
-        "releaseType": 1,
+        "id": 2621852,
+        "fileName": "forestry_1.12.2-5.8.1.347.jar",
+        "fileNameOnDisk": "forestry_1.12.2-5.8.1.347.jar",
+        "fileDate": "2018-09-28T17:04:15.417",
+        "fileLength": 5345867,
+        "releaseType": 2,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2583/367/forestry_1.12.2-5.8.1.322.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2621/852/forestry_1.12.2-5.8.1.347.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -16617,43 +16617,43 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 1742473840
+            "fimgerprint": 780343700
           },
           {
             "folderName": "forestry",
-            "fimgerprint": 2097526377
-          },
-          {
-            "folderName": "CREDITS.txt",
-            "fimgerprint": 2738042887
+            "fimgerprint": 979239668
           },
           {
             "folderName": "assets",
-            "fimgerprint": 1619085526
+            "fimgerprint": 2733758731
           },
           {
             "folderName": "config",
             "fimgerprint": 4115081509
           },
           {
+            "folderName": "CREDITS.txt",
+            "fimgerprint": 2738042887
+          },
+          {
             "folderName": "mcmod.info",
-            "fimgerprint": 3048813163
+            "fimgerprint": 112074169
           },
           {
             "folderName": "pack.mcmeta",
             "fimgerprint": 3213175927
           }
         ],
-        "packageFingerprint": 3153683343,
+        "packageFingerprint": 1757167114,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-09-22T13:59:50.9997002Z",
-      "dateUpdated": "2018-09-22T13:59:51.0049096Z",
-      "dateLastUpdateAttempted": "2018-09-22T13:59:51.0049096Z",
-      "status": 5,
+      "dateUpdated": "2018-09-29T05:33:08.7891418Z",
+      "dateLastUpdateAttempted": "2018-09-29T05:33:08.7891418Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -21204,14 +21204,14 @@
       "addonID": 245480,
       "gameInstanceID": "958e463f-9cb0-438b-9a30-e309d2b07df9",
       "installedFile": {
-        "id": 2605740,
-        "fileName": "valkyrielib-1.12.2-2.0.15.1.jar",
-        "fileNameOnDisk": "valkyrielib-1.12.2-2.0.15.1.jar",
-        "fileDate": "2018-08-19T18:50:30.35",
-        "fileLength": 480292,
+        "id": 2621772,
+        "fileName": "valkyrielib-1.12.2-2.0.16.1.jar",
+        "fileNameOnDisk": "valkyrielib-1.12.2-2.0.16.1.jar",
+        "fileDate": "2018-09-28T10:24:00.893",
+        "fileLength": 513670,
         "releaseType": 2,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2605/740/valkyrielib-1.12.2-2.0.15.1.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2621/772/valkyrielib-1.12.2-2.0.16.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -21219,35 +21219,35 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 1009009662
+            "fimgerprint": 3851167341
           },
           {
             "folderName": "com",
-            "fimgerprint": 1288083157
+            "fimgerprint": 3742383271
           },
           {
             "folderName": "assets",
-            "fimgerprint": 766442165
+            "fimgerprint": 3101612920
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 2678636708
+            "fimgerprint": 2720975586
           },
           {
             "folderName": "pack.mcmeta",
             "fimgerprint": 2703654551
           }
         ],
-        "packageFingerprint": 3331445570,
+        "packageFingerprint": 1657855624,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-09-22T14:01:35.1425275Z",
-      "dateUpdated": "2018-09-22T14:01:35.1435256Z",
-      "dateLastUpdateAttempted": "2018-09-22T14:01:35.1435256Z",
-      "status": 5,
+      "dateUpdated": "2018-09-29T05:33:45.8017736Z",
+      "dateLastUpdateAttempted": "2018-09-29T05:33:45.8017736Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -22141,14 +22141,14 @@
       "addonID": 225561,
       "gameInstanceID": "958e463f-9cb0-438b-9a30-e309d2b07df9",
       "installedFile": {
-        "id": 2618166,
-        "fileName": "Extra Utilities 2 - 1.12 - 1.9.3",
-        "fileNameOnDisk": "extrautils2-1.12-1.9.3.jar",
-        "fileDate": "2018-09-17T23:39:17.64",
-        "fileLength": 3187887,
+        "id": 2622003,
+        "fileName": "Extra Utilities 2 - 1.12 - 1.9.4",
+        "fileNameOnDisk": "extrautils2-1.12-1.9.4.jar",
+        "fileDate": "2018-09-29T03:04:41.613",
+        "fileLength": 3206158,
         "releaseType": 1,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2618/166/extrautils2-1.12-1.9.3.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2622/3/extrautils2-1.12-1.9.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -22156,11 +22156,11 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 2803101096
+            "fimgerprint": 3446889405
           },
           {
             "folderName": "com",
-            "fimgerprint": 3205678443
+            "fimgerprint": 3189774159
           },
           {
             "folderName": "assets",
@@ -22175,18 +22175,18 @@
             "fimgerprint": 314185225
           }
         ],
-        "packageFingerprint": 4113954010,
+        "packageFingerprint": 3580521292,
         "gameVersion": [
           "1.12.2",
-          "1.12",
-          "1.12.1"
+          "1.12.1",
+          "1.12"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-09-22T14:01:52.2997579Z",
-      "dateUpdated": "2018-09-22T14:09:26.0423348Z",
-      "dateLastUpdateAttempted": "2018-09-22T14:09:26.0423348Z",
-      "status": 5,
+      "dateUpdated": "2018-09-29T05:32:50.3707146Z",
+      "dateLastUpdateAttempted": "2018-09-29T05:32:50.3707146Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -23212,14 +23212,14 @@
       "addonID": 253565,
       "gameInstanceID": "958e463f-9cb0-438b-9a30-e309d2b07df9",
       "installedFile": {
-        "id": 2605745,
-        "fileName": "etlunar-1.12.2-2.0.15.1.jar",
-        "fileNameOnDisk": "etlunar-1.12.2-2.0.15.1.jar",
-        "fileDate": "2018-08-19T18:52:26.973",
-        "fileLength": 63616,
+        "id": 2621778,
+        "fileName": "etlunar-1.12.2-2.0.16.1.jar",
+        "fileNameOnDisk": "etlunar-1.12.2-2.0.16.1.jar",
+        "fileDate": "2018-09-28T10:34:16.747",
+        "fileLength": 63739,
         "releaseType": 1,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2605/745/etlunar-1.12.2-2.0.15.1.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2621/778/etlunar-1.12.2-2.0.16.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -23240,15 +23240,15 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 3853338841
+            "fimgerprint": 317184231
           },
           {
             "folderName": "com",
-            "fimgerprint": 56330607
+            "fimgerprint": 1496553425
           },
           {
             "folderName": "assets",
-            "fimgerprint": 2888292917
+            "fimgerprint": 500144758
           },
           {
             "folderName": "logo_mcmod.png",
@@ -23260,23 +23260,23 @@
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 3960705527
+            "fimgerprint": 1026042794
           },
           {
             "folderName": "pack.mcmeta",
             "fimgerprint": 2894109538
           }
         ],
-        "packageFingerprint": 2918231567,
+        "packageFingerprint": 4159998158,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-09-22T14:02:16.8575764Z",
-      "dateUpdated": "2018-09-22T14:02:16.858573Z",
-      "dateLastUpdateAttempted": "2018-09-22T14:02:16.858573Z",
-      "status": 5,
+      "dateUpdated": "2018-09-29T05:32:46.8727983Z",
+      "dateLastUpdateAttempted": "2018-09-29T05:32:46.8727983Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
