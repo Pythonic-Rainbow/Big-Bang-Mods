@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-10-01T15:50:10.5112921Z",
+  "lastPlayed": "2018-10-01T15:53:37.8961382Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -24658,6 +24658,73 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 288959,
+      "gameInstanceID": "958e463f-9cb0-438b-9a30-e309d2b07df9",
+      "installedFile": {
+        "id": 2535057,
+        "fileName": "mystagradcompat-1.2.jar",
+        "fileNameOnDisk": "mystagradcompat-1.2.jar",
+        "fileDate": "2018-02-25T15:22:34.517",
+        "fileLength": 8943,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2535/57/mystagradcompat-1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 231951,
+            "type": 1
+          },
+          {
+            "addonId": 256247,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1955199429
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 2372660091
+          },
+          {
+            "folderName": "changelog.txt",
+            "fimgerprint": 4225356113
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2873846618
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 4046971946,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-10-01T15:53:28.7112598Z",
+      "dateUpdated": "2018-10-01T15:53:28.7132568Z",
+      "dateLastUpdateAttempted": "2018-10-01T15:53:28.7132568Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     }
   ],
   "isMigrated": false,
