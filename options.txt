@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:1.0
-gamma:0.0
+gamma:0.48591548
 saturation:0.0
 renderDistance:8
 guiScale:3
@@ -13,7 +13,7 @@ maxFps:120
 fboEnable:true
 difficulty:2
 fancyGraphics:false
-ao:2
+ao:0
 renderClouds:fast
 resourcePacks:[]
 incompatibleResourcePacks:[]
@@ -185,6 +185,7 @@ key_vc.key.dropbomb:46
 key_key.open_terminal.desc:0
 key_key.open_magnet.desc:0
 key_key.switch_magnet_mode.desc:0
+key_key.open_fluid_terminal.desc:0
 key_key.pickup.item:0
 key_key.narrator:48:CONTROL
 key_key.jei.toggleOverlay:24:CONTROL
@@ -202,6 +203,7 @@ key_key.toolProfileChange:43
 key_key.armorProfileChange:43:ALT
 key_key.toggleFlight:0
 key_key.toggleDislocator:0
+key_key.toggle_focus.desc:15
 key_nei.options.keys.gui.botania_corporea_request:46
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
