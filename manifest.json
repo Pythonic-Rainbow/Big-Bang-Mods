@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "BigBangMods 3",
-  "version": "3.1.33.247",
+  "version": "3.1.34.243",
   "author": "arkyo00",
   "projectID": 274058,
   "files": [
@@ -202,7 +202,7 @@
     },
     {
       "projectID": 224808,
-      "fileID": 2612211,
+      "fileID": 2626419,
       "required": true
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "projectID": 244258,
-      "fileID": 2622976,
+      "fileID": 2626552,
       "required": true
     },
     {
@@ -687,7 +687,7 @@
     },
     {
       "projectID": 243506,
-      "fileID": 2624365,
+      "fileID": 2626544,
       "required": true
     },
     {
@@ -1382,7 +1382,7 @@
     },
     {
       "projectID": 296289,
-      "fileID": 2625859,
+      "fileID": 2626479,
       "required": true
     }
   ],
