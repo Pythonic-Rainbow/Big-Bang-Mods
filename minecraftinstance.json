@@ -23798,14 +23798,14 @@
       "addonID": 298378,
       "gameInstanceID": "5e350464-fdb3-4363-888e-c99a963b86ce",
       "installedFile": {
-        "id": 2585482,
-        "fileName": "0.0.1.2",
-        "fileNameOnDisk": "OpenScriptie-0.0.1.2.jar",
-        "fileDate": "2018-07-18T13:58:36.023",
-        "fileLength": 11611,
-        "releaseType": 1,
+        "id": 2585069,
+        "fileName": "0.0.0",
+        "fileNameOnDisk": "OpenScriptie-0.0.0.jar",
+        "fileDate": "2018-07-18T05:00:05.633",
+        "fileLength": 4420,
+        "releaseType": 3,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2585/482/OpenScriptie-0.0.1.2.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2585/69/OpenScriptie-0.0.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -23813,35 +23813,27 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 4080309993
+            "fimgerprint": 1167664824
           },
           {
             "folderName": "chingdim",
-            "fimgerprint": 1653767711
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 3270565417
+            "fimgerprint": 3242845005
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 1280088230
-          },
-          {
-            "folderName": "pack.mcmeta",
-            "fimgerprint": 3527628455
+            "fimgerprint": 3745251707
           }
         ],
-        "packageFingerprint": 2936075196,
+        "packageFingerprint": 2026190383,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-10-12T08:38:15.2925897Z",
-      "dateUpdated": "2018-10-12T08:38:15.3354741Z",
-      "dateLastUpdateAttempted": "2018-10-12T08:38:15.3354741Z",
-      "status": 5,
+      "dateUpdated": "2018-10-18T15:33:13.3979832Z",
+      "dateLastUpdateAttempted": "2018-10-18T15:33:13.3979832Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
