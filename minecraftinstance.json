@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-11-14T13:49:39.5531846Z",
+  "lastPlayed": "2018-11-18T09:20:05.3159216Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -21912,14 +21912,14 @@
       "addonID": 260327,
       "gameInstanceID": "0331bbdf-00bb-495d-b993-9738d23d2853",
       "installedFile": {
-        "id": 2636125,
-        "fileName": "plustic-6.5.4.0.jar",
-        "fileNameOnDisk": "plustic-6.5.4.0.jar",
-        "fileDate": "2018-11-07T19:55:11.777",
-        "fileLength": 405051,
+        "id": 2633228,
+        "fileName": "plustic-6.5.3.0.jar",
+        "fileNameOnDisk": "plustic-6.5.3.0.jar",
+        "fileDate": "2018-10-29T20:58:45.767",
+        "fileLength": 363930,
         "releaseType": 1,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2636/125/plustic-6.5.4.0.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2633/228/plustic-6.5.3.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -21936,22 +21936,22 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 733531326
+            "fimgerprint": 4137811092
           },
           {
             "folderName": "landmaster",
-            "fimgerprint": 2730456058
+            "fimgerprint": 570830914
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 30653777
+            "fimgerprint": 2400188618
           },
           {
             "folderName": "assets",
-            "fimgerprint": 2124666343
+            "fimgerprint": 2907504568
           }
         ],
-        "packageFingerprint": 3655264897,
+        "packageFingerprint": 3713381567,
         "gameVersion": [
           "1.12",
           "1.12.1",
@@ -21960,9 +21960,9 @@
         "installMetadata": null
       },
       "dateInstalled": "2018-10-21T09:53:30.2847421Z",
-      "dateUpdated": "2018-11-09T14:21:14.7539465Z",
-      "dateLastUpdateAttempted": "2018-11-09T14:21:14.7539465Z",
-      "status": 5,
+      "dateUpdated": "2018-11-18T14:45:55.0659552Z",
+      "dateLastUpdateAttempted": "2018-11-18T14:45:55.0659552Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
