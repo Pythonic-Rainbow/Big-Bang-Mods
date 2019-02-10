@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-01-30T14:36:39.5527138Z",
+  "lastPlayed": "2019-02-10T04:06:39.998546Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -13209,14 +13209,14 @@
       "addonID": 250277,
       "gameInstanceID": "80365cf9-a8b9-437d-8f25-e6cae62d2722",
       "installedFile": {
-        "id": 2648892,
-        "fileName": "ExtremeReactors-1.12.2-0.4.5.50.jar",
-        "fileNameOnDisk": "ExtremeReactors-1.12.2-0.4.5.50.jar",
-        "fileDate": "2018-12-16T14:01:56.097",
-        "fileLength": 1085265,
+        "id": 2670576,
+        "fileName": "ExtremeReactors-1.12.2-0.4.5.65.jar",
+        "fileNameOnDisk": "ExtremeReactors-1.12.2-0.4.5.65.jar",
+        "fileDate": "2019-02-08T12:16:11.877",
+        "fileLength": 1108551,
         "releaseType": 2,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2648/892/ExtremeReactors-1.12.2-0.4.5.50.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2670/576/ExtremeReactors-1.12.2-0.4.5.65.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13233,11 +13233,11 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 1265389242
+            "fimgerprint": 3313557134
           },
           {
             "folderName": "erogenousbeef",
-            "fimgerprint": 2277583087
+            "fimgerprint": 745569845
           },
           {
             "folderName": "zero",
@@ -13249,7 +13249,7 @@
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 4021234388
+            "fimgerprint": 4284745579
           },
           {
             "folderName": "pack.mcmeta",
@@ -13257,19 +13257,19 @@
           },
           {
             "folderName": "assets",
-            "fimgerprint": 1176468938
+            "fimgerprint": 3511444880
           }
         ],
-        "packageFingerprint": 3261751700,
+        "packageFingerprint": 4178031576,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2019-01-09T04:08:14.0918896Z",
-      "dateUpdated": "2019-01-09T04:08:14.0938841Z",
-      "dateLastUpdateAttempted": "2019-01-09T04:08:14.0938841Z",
-      "status": 3,
+      "dateUpdated": "2019-02-10T04:10:51.8830325Z",
+      "dateLastUpdateAttempted": "2019-02-10T04:10:51.8830325Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
